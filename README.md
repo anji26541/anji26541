@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @anji26541
-- 👀 I’m interested in ...full stack developer roles and database roles
-- 🌱 I’m currently learning python full stack
+- 👀 I’m interested in ...full stack developer roles, software developer and database roles
+- 🌱 I’m actively searching for jobs that suits my ability
 - 💞️ I’m looking to collaborate on backend,frontend,database
-- 📫 How to reach me ...anjaneyulukonakanchi2@gmail.com
-- 😄 Pronouns: ...He
-- ⚡ Fun fact: ...
+- 📫 How to reach me ...anjaneyulukonakanchi70@gmail.com
+- 📫 My number : 7671993342
+- 😄 Pronouns: He
+- ⚡ Fun fact: I can debug code faster than I can decide what to eat for dinner! 😄
 
 <!---
 anji26541/anji26541 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
