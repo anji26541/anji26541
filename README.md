@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @anji26541
+- 👋 Hi, I’m Anjaneyulu Konakanchi
 - 👀 I’m interested in ...full stack developer, software developer and database roles
-- 🌱 I’m actively searching for jobs that suits my ability
+- 🌱 I’m actively searching for jobs, that suits my ability
 - 💞️ I’m looking to collaborate on backend,frontend,database
 - 📫 How to reach me ...anjaneyulukonakanchi70@gmail.com
 - 📫 My number : 7671993342
